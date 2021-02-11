@@ -6,6 +6,25 @@ This project was built with Turbo 360. To learn more, click here: https://www.tu
 
 This project is also available. Check the demo here, click here: https://coffee-shop-lnu9bs.turbo360-vertex.com/
 
+
+# Requirements
+***
+1. First and foremost, open your terminal and type to clone this repository.
+  ```
+  git clone https://github.com/HiteshBucky/coffee-shop.git
+  ```
+2. Install the necessary dependencies to your app by running 
+  ```
+  npm install
+  ```
+3. Launch the development build of the app, by running  
+  ```
+  npm start
+  ```
+4. Open your favourite browser and type
+
+Happy Coding :)
+
 ## Instructions
 After cloning into repo, cd to project root directory and install dependencies:
 
@@ -30,3 +49,37 @@ To build for production, run build:
 ```
 $ npm run build
 ```
+
+
+
+#
+#
+#
+          
+
+![](images/image1.png)
+
+#
+#
+![](images/image2.png)
+
+#
+#
+![](images/image3.png)
+#
+#
+
+# Place some order here
+#
+#
+![](images/image4.png)
+
+#
+#
+# Admin panel
+![](images/image5.png)
+
+
+#
+#
+

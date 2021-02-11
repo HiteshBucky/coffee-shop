@@ -1,0 +1,18 @@
+{
+	"hero" : {
+		"header" : "Drink Healthy <br> and Natural coffee",
+		"subtext" : "At Bucky's house of coffee, we only brew the freshest coffee from all around the world. We also serve pastries such as cupcakes and brownies.",
+		"bg_image" : "/images/barista-3.jpg"
+	},
+
+	"about" : {
+		"header" : "Welcome to Bucky's Coffee's house. ",
+		"subtext" : "Welcome to our house of coffee! We hope you enjoy our broad brand selection of premium coffee from all over the world.Welcome to our house of coffee! We hope you enjoy our broad brand selection of premium coffee from all over the world.Welcome to our house of coffee! We hope you enjoy our broad brand selection of premium coffee from all over the world.",
+		"bg_image" : "/images/barista-2.jpg",
+		"images" : [
+			{"image" : "/images/iced-coffee.jpg", "caption" : "Iced Coffee"},
+			{"image" : "/images/cupcake.jpg", "caption" : "Cupcake"},
+			{"image" : "/images/tea.jpg", "caption" : "Tea"}
+		]
+	}
+}

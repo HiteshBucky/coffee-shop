@@ -21,7 +21,9 @@ This project is also available. Check the demo here, click here: https://coffee-
   npm start
   ```
 4. Open your favourite browser and type
-
+  ```
+  http://localhost:3000/
+  ```
 Happy Coding :)
 
 ## Instructions

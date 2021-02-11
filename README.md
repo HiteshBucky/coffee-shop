@@ -2,7 +2,6 @@
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
 
-# coffee-shop
 
 This project is also available. Check the demo here, click here: https://coffee-shop-lnu9bs.turbo360-vertex.com/
 
@@ -61,19 +60,30 @@ $ npm run build
 
 #
 #
+***
+#
+#
 ![](images/image2.png)
 
+#
+#
+***
 #
 #
 ![](images/image3.png)
 #
 #
-
+***
+#
+#
 # Place some order here
 #
 #
 ![](images/image4.png)
 
+#
+#
+***
 #
 #
 # Admin panel
